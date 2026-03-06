@@ -1,0 +1,4 @@
+interface:
+  display_name: "My Brainstorming"
+  short_description: "Clarify user requirements before technical design"
+  default_prompt: "Use this thin wrapper to run a user-centered requirements clarification phase before any technical brainstorming, capture those requirements in the design doc, then continue with the upstream brainstorming workflow."
